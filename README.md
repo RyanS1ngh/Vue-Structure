@@ -63,6 +63,10 @@ yarn dev
 
 ```
 
+## where to add your HTML 
+
+The main files that handles the pages are inside `/src/pages/` You'll find that they are accurately named. 
+
 
 
 (Repeat for npm, pnpm, and bun with respective commands.)
